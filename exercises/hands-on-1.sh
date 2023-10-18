@@ -14,3 +14,4 @@ do
     touch file$i.txt
 done
 
+echo "Files created"
