@@ -8,10 +8,3 @@
     # check if the key already exists in the authorized_keys before adding it
     # test whether it works with an ssh client and vscode
 
-# for loop to create file 1 to 10
-for i in {1..10}
-do
-    touch file$i.txt
-done
-
-echo "Files created"
